@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "acb5cf7a8fe69e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ad74ecb56c3ba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726f8544fde53c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim Learning Cheat sheets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc2b95e03c771652",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ac062849921fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e9084741ff2402",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4bb740248f43f65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79dcabf1747caec6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ce911501fdad3a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2853331955306a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db388d69fa37f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neovim Learning Cheat sheets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ce6c3628e0c526a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neovim Learning Cheat sheets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77bd83c5894cee6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7df99a179772646",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neovim Learning Cheat sheets.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "726f8544fde53c82",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Neovim Learning Cheat sheets.md",
+    "2023-09-08.md"
+  ]
+}
